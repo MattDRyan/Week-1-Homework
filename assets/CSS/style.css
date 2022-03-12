@@ -211,6 +211,7 @@ h2{
 } */
 
 /*Consolidated  h3 styling */
+/* Move h3 here for sequential order */
 .benefits h3{
     margin-bottom: 10px ;
     text-align: center;
