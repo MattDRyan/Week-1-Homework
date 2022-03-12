@@ -154,8 +154,8 @@ p {
     max-width: 150px; */
 }
 
-/* Consolidated content styling, used wildcard to select all  */
-.content > *{
+/* Consolidated content styling, used wildcard to select all */
+.content > * {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -193,7 +193,7 @@ p {
 } */
 
 /* Consolidated JPG image styling  */
-.content img{
+.content img {
     max-height: 200px;
 }
 /* Repeatative JPG styling to be removed */
@@ -213,7 +213,7 @@ p {
 h2{
     margin-bottom: 20px;
     font-size: 36px;
-} */
+} 
 
 /* Repeatitive h2 styling to be removed */
 /* .search-engine-optimization h2 {
