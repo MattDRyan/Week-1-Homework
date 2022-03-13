@@ -61,7 +61,7 @@ Here is an example of where the relative paths have been changed in index.html:
                   <!-- <img src="**./assets/images**/search-engine-optimization.jpg" class="float-left" /> -->
                   <!-- New Image source &  added ALT for accessibility -->
                   <img src="**./assets/Images/**search-engine-optimization.jpg" class="float-left" alt="search engine optimization"/>
-                  <h2>Search Engine Optimization</h2>
+                  
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -83,7 +83,12 @@ While this project formed part of a homework assignment and is unlkely to be dev
 
 Please see license.md file.
 
-Credits
+**Credits**
+               
+1) The University of Adelaide in partnership with Trilogy Education Services (Australia) Pty Ltd., a 2U, Inc. brand who are responsible for the course content, default code and image content.
+2) Wagner Lopes and Ben Fawcett  - Course instructors
+
+               
 
 
 
