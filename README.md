@@ -51,21 +51,7 @@ Use the following Git Document to clone "MattDRyan/Week-1-Homework"  repository 
 
 It is very important that after you have cloned the respository to your local machine to check all the image links in the HTML and CSS code and set the image relative path selected in step five of this guide. 
 
-Here is an example of where the relative paths have been changed in index.html:
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-<div class="content">
-             <div class="search-engine-optimization">
-                  <!--Old image source to be removed-->
-                  <!-- <img src="**./assets/images**/search-engine-optimization.jpg" class="float-left" /> -->
-                  <!-- New Image source &  added ALT for accessibility -->
-                  <img src="**./assets/Images/**search-engine-optimization.jpg" class="float-left" alt="search engine optimization"/>
-                  
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-**Need help with the project?**
+ **Need help with the project?**
 
 If you have any questions or need assitance please message me via linkedin on linkedin.com/in/matt-ryan-a4a05154
 
