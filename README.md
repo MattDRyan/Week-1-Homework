@@ -45,29 +45,46 @@ The students must demostrate thier ability to have grasped the HTML/CSS concepts
 
 **Get started with the project**
 
-**Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like correct at a resolution smaller than 768px.
+**Note**: This project layout is designed for desktop viewing, so you may notice that some of the elements don't look like correct at a resolution smaller than 768px. Students cover this in later weeks.
 
-Follow these instructions to create your project and deploy it to GitHub Pages:
+Use the following Git Document to clone "MattDRyan/Week-1-Homework"  repository >> https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
-1. Create a new repository on your GitHub account and clone it to your computer.
+It is very important that after you have cloned the respository to your local machine to check all the image links in the HTML and CSS code and set the image relative path selected in step five of this guide. 
 
-2. When you're ready to deploy, use the `git add`, `git commit`, and `git push` commands to save and push your code to your GitHub repository.
+Here is an example of where the relative paths have been changed in index.html:
 
-3. Navigate to your GitHub repository in the browser and then select the Settings tab on the right side of the page.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-4. On the Settings page, scroll down to the GitHub Pages section. Then, in the section labeled Source, select the `main` branch as your source.
+<div class="content">
+             <div class="search-engine-optimization">
+                  <!--Old image source to be removed-->
+                  <!-- <img src="**./assets/images**/search-engine-optimization.jpg" class="float-left" /> -->
+                  <!-- New Image source &  added ALT for accessibility -->
+                  <img src="**./assets/Images/**search-engine-optimization.jpg" class="float-left" alt="search engine optimization"/>
+                  <h2>Search Engine Optimization</h2>
 
-5. Navigate to <your-github-username.github.io/your-repository-name> and you will find that your new webpage has gone live! For example, if your GitHub username is "lernantino" and the project is "css-demo-site", then your URL would be <lernantino.github.io/css-demo-site>.
-
-You can also refer to this [YouTube video on enabling GitHub Pages](https://youtu.be/P4Mu1t5rIXg) for more guidance.
-
-> **Important**: It might take a few minutes for GitHub pages to display your site correctly. If your project does not deploy or display correctly, check that all file paths in your application are relative and use the right casing. GitHub is case-sensitive, an inccorect capital or lowercase letter could cause problems in deployment.
-
-Be sure to add, commit, and push your work to see the most up-to-date version of your app!
-
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 **Need help with the project?**
 
-If you have ay questions or need assitance please message me via linkedin on linkedin.com/in/matt-ryan-a4a05154
+If you have any questions or need assitance please message me via linkedin on linkedin.com/in/matt-ryan-a4a05154
 
-Who maintains and contributes to the project
+Contribuitng to the project
+While this project formed part of a homework assignment and is unlkely to be developed further, contributions are welcome. 
+
+**Here are guidelines for contributers:**
+
+1) We ask contributors to review all work locally before any Git push to the repository
+2) Commits should be squashed
+3) Contributors should ask before they make significant changes.
+4) Work-in-progress pull requests are ok.
+
+**Licensing Information**
+
+Please see license.md file.
+
+Credits
+
+
+
+
