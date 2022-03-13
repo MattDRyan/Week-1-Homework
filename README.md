@@ -32,6 +32,7 @@ Students were provided a existing code which included index.html, style.css and 
 -**Comments** Add comments to HTML and CSS 
 
 **Competed site**
+
 The URL can be found here>> https://mattdryan.github.io/Week-1-Homework/
 
 Following the link you will be presented with "Horiseon Marketing" page similar to the below screenshot.
