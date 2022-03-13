@@ -1,6 +1,7 @@
 # Week-1-Homework
 
 **About Week-1-Homework**
+
 A Coding Boot Camp is offered through The University of Adelaide in partnership with Trilogy Education Services (Australia) Pty Ltd., a 2U, Inc. brand. This coding bootcamp is a 24-week course and is desinged for students to become a web developer. The course features HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, React.js, Node.js, Database Theory, MongoDB, MySQL, Command Line, Git, and more.
 
 During the first week students are presented with the following concepts.
@@ -37,11 +38,11 @@ Following the link you will be presented with "Horiseon Marketing" page similar 
 
 <img src="assets/Images/Screenshot.jpg">
 
+**Project Goal**
 
+The students must demostrate thier ability to have grasped the HTML/CSS concepts of the week and apply this to this project. Understanding these concepts is very important for the remainder of the course and sets the foundation for the introduction of Javascript in week three. A second purpose of the project is to provide a practicle task to use GIThub repositories and fully understand the process of replicating content from your own computer to the Git repositories. 
 
-
-
-Why the project is useful
 How users can get started with the project
+
 Where users can get help with your project
 Who maintains and contributes to the project
