@@ -35,7 +35,7 @@ The URL can be found here>> https://mattdryan.github.io/Week-1-Homework/
 
 Following the link you will be presented with "Horiseon Marketing" page similar to the below screenshot.
 
-<img src="assets/images/Screenshot.jpg">
+<img src="assets/Images/Screenshot.jpg">
 
 
 
