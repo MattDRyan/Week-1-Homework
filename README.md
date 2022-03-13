@@ -33,9 +33,9 @@ Students were provided a existing code which included index.html, style.css and 
 **Competed site**
 The URL can be found here>> https://mattdryan.github.io/Week-1-Homework/
 
-Following the link yo will be presented with "Horiseon Marketing" page similar to the below screenshot.
+Following the link you will be presented with "Horiseon Marketing" page similar to the below screenshot.
 
-![](assets/images/Screenshot.jpg)
+<img src="./assets/images/Screenshot.jpg" />
 
 
 
